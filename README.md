@@ -1,10 +1,19 @@
 - 👋 Hi, I’m @steph-koopmanschap
+
 - 👀 I’m interested in ...
+
+SOCIAL MEDIA PLATFORMS
+FINTECH (Financial Technology)
+
 - 🌱 I’m currently learning ...
+
+HTML
+CSS
+JAVASCRIPT
+MYSQL / POSTGRESQL 
+SOLIDITY / DAPPS
+BASH / LINUX
+SEO
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-steph-koopmanschap/steph-koopmanschap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
