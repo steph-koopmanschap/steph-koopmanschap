@@ -1,19 +1,21 @@
-- 👋 Hi, I’m @steph-koopmanschap
+- # 👋 Hi, I’m @steph-koopmanschap
 
-- 👀 I’m interested in ...
+- ## 👀 I’m interested in ...
 
-SOCIAL MEDIA PLATFORMS
-FINTECH (Financial Technology)
+- SOCIAL MEDIA PLATFORMS
+- FINTECH (Financial Technology)
+- GENERATED RANDOMNESS / PROCEDURAL GENERATION
+- CELLULAR AUTOMATA
+- SELF REFERENCIAL SYSTEMS
+- FRACTALS & RECURSIVENESS
+- GEOMETRY
 
-- 🌱 I’m currently learning ...
+- ## 🌱 I’m currently learning ...
 
-HTML
-CSS
-JAVASCRIPT
-MYSQL / POSTGRESQL 
-SOLIDITY / DAPPS
-BASH / LINUX
-SEO
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- HTML
+- CSS (TailwindCSS)
+- JAVASCRIPT
+- REACTJS, EXPRESSJS, NODEJS
+- POSTGRESQL 
+- BASH / LINUX
+- SEO and Digital Marketting
