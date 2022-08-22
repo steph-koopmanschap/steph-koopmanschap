@@ -3,7 +3,7 @@
 - ## 👀 I’m interested in ...
 
 - SOCIAL MEDIA PLATFORMS
-- FINTECH (Financial Technology)
+- FINTECH (Financial Technology) && Financial Theory
 - GENERATED RANDOMNESS / PROCEDURAL GENERATION
 - CELLULAR AUTOMATA
 - SELF REFERENCIAL SYSTEMS
