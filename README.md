@@ -1,22 +1,24 @@
-- # 👋 Hi, I’m @steph-koopmanschap
+# Hi, I am @steph-koopmanschap
 
-- ## 👀 I’m interested in ...
+## About me
 
-- SOCIAL MEDIA PLATFORMS
-- FINTECH (Financial Technology) && Financial Theory
-- GENERATED RANDOMNESS / PROCEDURAL GENERATION
-- CELLULAR AUTOMATA
-- SELF REFERENCIAL SYSTEMS
-- CHAOS THEORY
-- FRACTALS & RECURSIVENESS
-- GEOMETRY
+Full stack web developer and digital & social media marketer.
 
-- ## 🌱 I’m currently learning ...
+## My technical skills
 
-- HTML
-- CSS (TailwindCSS)
-- JAVASCRIPT
-- REACTJS, EXPRESSJS, NODEJS
-- POSTGRESQL 
-- BASH / LINUX
-- SEO and Digital Marketting
+- HTML / JSX
+- CSS / TailwindCSS
+- Javascript / NodeJS
+- React / NextJS / ExpressJS
+- SQL / PostGreSQL / SQLITE
+- BASH / Linux
+- Python
+- SEO
+
+## I am interested in
+
+- Social media platforms and social media marketing
+- Social technologies
+- Fintech (Financial technologies)
+- Procedural Generation
+- Fractals, recursiveness, and geometry
