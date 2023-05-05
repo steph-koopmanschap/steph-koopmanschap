@@ -12,8 +12,9 @@ Full stack web developer and digital & social media marketer.
 - React / NextJS / ExpressJS
 - SQL / PostGreSQL / SQLITE
 - BASH / Linux
-- Python
+- Python / Django
 - SEO
+- Data Science
 
 ## I am interested in
 
@@ -21,4 +22,4 @@ Full stack web developer and digital & social media marketer.
 - Social technologies
 - Fintech (Financial technologies)
 - Procedural Generation
-- Fractals, recursiveness, and geometry
+- Fractals and recursiveness
