@@ -9,7 +9,7 @@ Full stack web developer and digital & social media marketer.
 - HTML / JSX
 - CSS / TailwindCSS
 - Javascript / NodeJS
-- React / NextJS / ExpressJS
+- React / NextJS
 - SQL / PostGreSQL / SQLITE
 - BASH / Linux
 - Python / Django
