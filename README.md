@@ -1,20 +1,56 @@
-# Hi, I am @steph-koopmanschap
+# Hi, I am Steph Koopmanschap
 
 ## About me
 
-Full stack web developer and digital & social media marketer.
+- Data scientist
+- Web developer
+
+## Programming and scripting languages I know
+
+- SQL
+- Python
+  - Pandas
+  - Numpy
+  - Scipy
+  - Matplotlib
+  - Gspread
+  - Django
+- BASH / Linux
+- Javascript
+  - Node.js
+  - React.js
+  - Next.js
+- HTML
+  - JSX
+  - Hugo
+  - Markdown
+- CSS
+  - TailwindCSS
 
 ## My technical skills
 
-- HTML / JSX
-- CSS / TailwindCSS
-- Javascript / NodeJS
-- React / NextJS
-- SQL / PostGreSQL / SQLITE
-- BASH / Linux
-- Python / Django
+- Data science / Data analysis
+- Web Development
 - SEO
-- Data Science
+- Social Media Marketing
+
+## Environments, tools, and frameworks I have worked with
+
+- PostGreSQL
+- SQLITE
+- Jupyter Notebook / Studio
+- Google
+  - Looker Studio
+  - Analytics
+  - Search console
+  - Ads
+  - Admin
+  - Sheets
+- SalesForce
+- Heroku
+- Amazon
+  - AWS Lambda and Chalice
+  - Cognito
 
 ## I am interested in
 
