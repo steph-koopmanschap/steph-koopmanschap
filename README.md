@@ -1,4 +1,4 @@
-# Hi, I am Steph Koopmanschap
+# Hi, I am Steph Koopmanschap aka the The Data Diva
 
 ## About me
 
@@ -22,6 +22,7 @@
   - Next.js
 - HTML
   - JSX
+  - HTMX
   - Hugo
   - Markdown
 - CSS
@@ -37,6 +38,7 @@
 ## Environments, tools, and frameworks I have worked with
 
 - PostGreSQL
+- MySQL
 - SQLITE
 - Jupyter Notebook / Studio
 - Google
@@ -48,6 +50,7 @@
   - Sheets
 - SalesForce
 - Heroku
-- Amazon
-  - AWS Lambda and Chalice
+- Amazon AWS
+  - Lambda and Chalice
   - Cognito
+  - Aurora
